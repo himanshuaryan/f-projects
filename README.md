@@ -1,4 +1,4 @@
-![Banner](https://codecrafters.io/images/byox-banner.gif)
+![Banner](byox-banner.gif)
 ![Banner](dèv_banner.png)
 
 ## Build your own &lt;insert-technology-here&gt;
